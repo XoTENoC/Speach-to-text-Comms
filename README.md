@@ -11,10 +11,14 @@ system and translates it to text of a webpage.
 
 ## Prerequisites
 
-This project will be using ``` python 3.10 ```
+This project will be using ``` python 3.9.7 ```
 
-### Google Cloud Speech Library
+**Google Cloud Speech Library**
 
 ``` bash
 pip install --upgrade google-cloud-speech
+```
+
+```bash
+pip3 install SpeechRecognition pydub
 ```
